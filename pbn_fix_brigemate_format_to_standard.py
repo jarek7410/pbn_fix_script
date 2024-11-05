@@ -2,6 +2,7 @@
 ##############################################################################
 # Script Name:       pbn_fix_brigemate_format_to_standard.py
 # Author:            jarek7410
+# Email:             jarekomsta+brige@gmail.com
 # Created Date:      2024.11.05
 # Last Modified:     2024.11.05
 # Description:       This script copies specific lines from an input file to
